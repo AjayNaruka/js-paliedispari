@@ -34,7 +34,7 @@ function palCheck(parola){
   var strParolaRev = strParolaRevArr.join("");
   console.log("Parola REV: \n" + strParolaRev);
   if(strParolaRev==parola) console.log("PALINDROMI")
-  else console.log("NON PALINDROMI")
+  else console.log("NON PALINDROMO")
   console.log("*****************")
 }
 
